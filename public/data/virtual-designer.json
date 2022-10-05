@@ -1,0 +1,22 @@
+{
+  "name": "Ar Rakin",
+  "type": "personal",
+  "bio": "A common man who loves coding!",
+  "avatar": "https://github.com/virtual-designer.png",
+  "links": [
+    {
+      "name": "Follow me on GitHub",
+      "url": "https://github.com/virtual-designer",
+      "icon": "github"
+    }
+  ],
+  "milestones": [
+    {
+      "title": "Started Coding",
+      "date": "December 2019",
+      "icon": "graduation-hat",
+      "color": "#007bff",
+      "description": "Started Coding"
+    }
+  ]
+}
