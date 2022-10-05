@@ -5,6 +5,7 @@ import {
   FaApple,
   FaArrowLeft,
   FaBook,
+  FaCode,
   FaDev,
   FaDiscord,
   FaDollarSign,
@@ -57,6 +58,8 @@ function GetIcons({ iconName, ...restProps }) {
       return <FaBook {...restProps} />
     case 'shareprofile':
       return <FiShare2 {...restProps} />
+    case 'code':
+      return <FaCode {...restProps} />
     case 'codeforces':
       return <SiCodeforces {...restProps} />
     case 'codewars':
